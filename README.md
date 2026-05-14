@@ -1,5 +1,5 @@
 # Pre-Entrega: Automatización SauceDemo
-**Alumno:** Nicolás Volpe
+**Alumno:** Nicolás Volpe Bonola
 
 ## Descripción
 Este proyecto automatiza un flujo básico de compra en la web de SauceDemo utilizando **Python**, **Selenium** y **Pytest**.
